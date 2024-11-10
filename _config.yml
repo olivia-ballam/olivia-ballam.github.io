@@ -1,3 +1,11 @@
 title: Olivia Ballam
 Description: Pipeline Technical Director
 theme: minima
+
+# Pages
+pages:
+  projects:
+    title: "Projects"
+    file: projects.md
+    show_in_nav: true
+    order: 2  # Order in navigation menu
